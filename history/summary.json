@@ -1,7 +1,7 @@
 [
   {
     "name": "Skatepoint Website",
-    "url": "https://skatepoint.ru",
+    "url": "https://skatepoint.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/skatepoint.ru.ico",
     "slug": "skatepoint-website",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 305,
-    "timeWeek": 305,
-    "timeMonth": 305,
-    "timeYear": 305,
+    "time": 327,
+    "timeDay": 327,
+    "timeWeek": 327,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   }
 ]
